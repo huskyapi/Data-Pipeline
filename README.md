@@ -8,4 +8,4 @@ Make a proof-of-concept pipeline using PySpark to focus on finding viable data t
 Potentially migrate to Scala (mostly because Spark code is natively written in Scala)
 
 # Why Spark
-There's a lot of course data to process, not sure if Pandas would be enough
+There's a lot of course data to process, not sure if Pandas would be enough. Also, converting from Dataframe to SQL table should be easy once data transformations are figured out
